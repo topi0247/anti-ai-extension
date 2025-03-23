@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://chatgpt.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://www.perplexity.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://claude.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://gemini.google.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://www.midjourney.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://stability.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://dreamstudio.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://runwayml.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://www.jasper.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://www.copy.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://replika.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://bolt.new/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://dify.ai/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://replit.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://anti-ai.topi-log.com/"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://www.tabnine.com/*",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  }
+]
